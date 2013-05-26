@@ -1,8 +1,9 @@
 {
-	"name": "Kanso-Font-Awesome",
+	"name": "kanso-font-awesome",
 	"version": "0.0.1",
 	"description": "Font Awesome in a Kanso package",
 	"url": "https://github.com/Dsyko/Kanso-Font-Awesome",
+	"categories": ["frontend"],
 	"less": {
 		"paths": ["./less"]
 	},
